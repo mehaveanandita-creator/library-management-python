@@ -34,7 +34,7 @@ If you don't set `LMS_PASSWORD`, the default password is `change-me`.
 
 ## 🔮 Future Improvements
 - Search books by title or author
-- Graphical interface (Tkinter)
+- Graphical interface 
 - Multiple users (librarian and student logins)
 - Export reports to Excel
 
