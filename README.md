@@ -1,6 +1,6 @@
 # 📚 Library Management System (Python)
 
-A simple command-line library system written in **Python**. It is a Python version of my college project, the *E-Library Management System* (originally built in Java + MySQL at UIT, HPU Shimla).
+A simple command-line library system written in **Python**. It is a Python version of a college project, the *E-Library Management System* (originally built in Java + MySQL at UIT, HPU Shimla).
 
 A librarian can register students, add books, issue and return books, and view statistics. Everything is saved in a local database file, so there is nothing extra to install.
 
@@ -39,4 +39,4 @@ If you don't set `LMS_PASSWORD`, the default password is `change-me`.
 - Export reports to Excel
 
 ## 👩‍💻 About
-Made by Anandita. This started as a team project with Vishakha Thakur and Ankita, and this Python version was rebuilt from the original project report.
+Python version of the E-Library Management System, a college project by Vishakha Thakur, Anandita and Ankita (originally built in Java + MySQL at UIT, HPU Shimla). This Python version was created with the help of Claude (AI) from the original project report, and is shared here for learning and practice.
